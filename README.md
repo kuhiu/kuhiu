@@ -35,5 +35,5 @@
 - **ARM microcontroller and processors**
 - **Xilinx SoCs and FPGAs**
 - **Procesamiento de imagenes y señales**
-- **Inteligencia artificial**
+- **Inteligencia artificial, NN, CNN, Speech Recognition, Tensorflow, Tensorflow Lite, Tensorflow Lite Micro**
 - **RTOS and TDS systems** 
