@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Martin</h1>
 <h3 align="center">Apasionado en sistemas embebidos</h3>
 
-- 🌱 Im learning **Advanced HDL, IA, Tensorflow framework **
+- 🌱 Im learning **Advanced HDL, IA and Tensorflow framework **
 
 <h3 align="left">Connect with me: marfus@hotmail.es </h3>
 <p align="left">
