@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, soy Martin</h1>
 <h3 align="center">Apasionado en sistemas embebidos</h3>
 
-- 🔭 Actualmente trabajo en mi tesis de grado **Sistema de navegación inteligente acelerado por hardware**
-
-- 🌱 Estoy aprendiendo **HDL avanzado, inteligencia artificial, y Linux avanzado (desarrollo de Drivers)**
+- 🌱 Im learning **Advanced HDL, IA, Tensorflow framework **
 
 <h3 align="left">Connect with me: marfus@hotmail.es </h3>
 <p align="left">
