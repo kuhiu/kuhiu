@@ -10,7 +10,7 @@
 
 <h3 align="left"> What can you find here? </h3>
 
-- **Linux Avanzado, LKMD (Drivers)**
+- **Linux, LKMD (Drivers)**
 - **TCP/IP**
 - **C**
 - **C++**
@@ -33,5 +33,5 @@
 - **ARM microcontroller and processors**
 - **Xilinx SoCs and FPGAs**
 - **Procesamiento de imagenes y señales**
-- **Inteligencia artificial, NN, CNN, Speech Recognition, Object Recognition, Tensorflow, Tensorflow Lite, Tensorflow Lite Micro**
+- **IA, NN, CNN, Speech Recognition, Object Recognition, Tensorflow, Tensorflow Lite, Tensorflow Lite Micro**
 - **RTOS and TDS systems** 
