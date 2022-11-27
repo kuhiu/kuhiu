@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Martin</h1>
-<h3 align="center">Apasionado en sistemas embebidos</h3>
+<h1 align="center">Hi 👋, im Martin</h1>
+<h3 align="center">Embedded systems</h3>
 
 - 🌱 I am currently perfecting myself in **Advanced C++, IA and Linux embedded **
 
